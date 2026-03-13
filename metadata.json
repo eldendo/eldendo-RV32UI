@@ -1,0 +1,5 @@
+{
+  "name": "RV32I RISC-V Web Emulator",
+  "description": "A functional RISC-V (RV32I) emulator running in the browser with real-time register visualization and assembly editor.",
+  "requestFramePermissions": []
+}
